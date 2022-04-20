@@ -1,0 +1,23 @@
+.plant-item-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.image {
+  height: 200px;
+  width: 200px;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #f8fafc;
+  font-weight: 500;
+}
+.description {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #f1f5f9;
+  text-align: center;
+}
